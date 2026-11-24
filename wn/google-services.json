@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "14952820836",
+    "firebase_url": "https://rebr-c2e9d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rebr-c2e9d",
+    "storage_bucket": "rebr-c2e9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14952820836:android:0d854f532693961c58ef71",
+        "android_client_info": {
+          "package_name": "com.wn.blackrussia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRZqEkXEBf8sdwkOFtysBk8G4Xq_D3k4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

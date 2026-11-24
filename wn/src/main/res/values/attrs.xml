@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PercentRecyclerView">
+        <attr name="itemWidthPercent" format="float" />
+        <attr name="itemHeightPercent" format="float" />
+        <attr name="itemHeightMultiplier" format="float" />
+        <attr name="marginTopPercent" format="float" />
+        <attr name="marginBottomPercent" format="float" />
+        <attr name="marginLeftPercent" format="float" />
+        <attr name="marginRightPercent" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="AnyViewIndicator">
+        <attr name="avi_animation_enable" format="boolean" />
+        <attr name="avi_animator" format="reference" />
+        <attr name="avi_animator_reverse" format="reference" />
+        <attr name="avi_drawable" format="reference" />
+        <attr name="avi_drawable_unselected" format="reference" />
+        <attr name="avi_gravity">
+            <flag name="bottom" value="0x50" />
+            <flag name="center" value="0x11" />
+            <flag name="center_horizontal" value="0x1" />
+            <flag name="center_vertical" value="0x10" />
+            <flag name="clip_horizontal" value="0x8" />
+            <flag name="clip_vertical" value="0x80" />
+            <flag name="end" value="0x800005" />
+            <flag name="fill" value="0x77" />
+            <flag name="fill_horizontal" value="0x7" />
+            <flag name="fill_vertical" value="0x70" />
+            <flag name="left" value="0x3" />
+            <flag name="right" value="0x5" />
+            <flag name="start" value="0x800003" />
+            <flag name="top" value="0x30" />
+        </attr>
+        <attr name="avi_height" format="dimension" />
+        <attr name="avi_margin" format="dimension" />
+        <attr name="avi_orientation">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="avi_width" format="dimension" />
+    </declare-styleable>
+</resources>

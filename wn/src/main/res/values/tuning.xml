@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_progressbar_tuning">#d4121212</color>
+    <color name="green_check_element">#ff43cd7f</color>
+    <color name="yellow_active_switch">#ffffba08</color>
+    <string name="tuning_action_open_card">нажмите на карточку</string>
+    <string name="tuning_back">Вернуться</string>
+    <string name="tuning_button_back">вернуться</string>
+    <string name="tuning_button_open">открыть</string>
+    <string name="tuning_diagnostic_status_actual">актуальна</string>
+    <string name="tuning_main_menu">Главное меню</string>
+    <string name="tuning_reset_apply_button_text">Подтвердить</string>
+    <string name="tuning_reset_info_text">Эта услуга распространяется только на выбранный тип тюнинга. Услуга бесплатна.</string>
+    <string name="tuning_reset_text">Вы действительно желаете вернуть состояние своего автомобиля к стандартному?</string>
+    <string name="tuning_status_diagnostic">ИДЕТ ДИАГНОСТИКА…</string>
+    <string name="tuning_submenu_static_title">Подтвердите действие о</string>
+    <string name="tuning_text_info_kits">Обратите внимание, что комплектация присваивается автомобилю только в случае, если приобретены все компоненты этой комплектации. Если на машине приобретены компоненты нескольких комплектаций, Вы сможете переключиться между ними при помощи радиального меню.</string>
+    <string name="tuning_title_block_info">подробнее</string>
+    <string name="tuning_title_box">коробка</string>
+    <string name="tuning_title_box_content">содержимое кейса</string>
+    <string name="tuning_title_button_info">смотреть</string>
+    <string name="tuning_title_button_selected_color">выбрать</string>
+    <string name="tuning_title_button_set_detail">установить</string>
+    <string name="tuning_title_buttons_block">купить за</string>
+    <string name="tuning_title_diagnostic_button">диагностика</string>
+    <string name="tuning_title_diagnostic_status">диагностика</string>
+    <string name="tuning_title_final_rgb_color">Итоговый цвет:</string>
+    <string name="tuning_title_info_equipment">Информация о комплектации</string>
+    <string name="tuning_title_ready_colors">готовые цвета</string>
+    <string name="tuning_title_rgb_color">RGB палитра</string>
+    <string name="tuning_title_seekbar_rgb">Насыщенность цвета</string>
+    <string name="tuning_title_seekbar_transparency">Прозрачность тонировки</string>
+    <string name="tuning_title_submenu">Выбор тюнинга</string>
+    <string name="tuning_bought_detail">Куплено</string>
+    <string name="tuning_diagnostic_status_no_actual">неактуальна</string>
+    <string name="tuning_set_detail">Установлено</string>
+</resources>

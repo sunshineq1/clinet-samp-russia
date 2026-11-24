@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_4sdp">4dp</dimen>
+
+    <string name="bp_act_st1">Пакет Premium</string>
+
+    <item name="snap_model_tag" type="id" />
+</resources>

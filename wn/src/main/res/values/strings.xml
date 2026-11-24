@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by %1$s</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"This app won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"This app won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"This app won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_update_text">"This app won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="hello">GTA San Andreas</string>
+    <string name="privacyPolicy1">Запуская это приложение вы соглашаетесь с</string>
+    <string name="privacyPolicy2">Политикой конфиденциальности</string>
+    <string name="privacyPolicy3">Политика конфиденциальности</string>
+    <string name="yes">Да</string>
+    <string name="ok">Ок</string>
+    <string name="default_notification_channel_id">BLACK RUSSIA</string>
+    <string name="warning_free_memory">На вашем устройстве осталось мало места - %1$d MB. Удалите лишнее</string>
+    <string name="reinstallClient">Переустановить клиент</string>
+    <string name="reinstallClientQ">Переустановить клиент?</string>
+    <string name="reinstallGame">Починить игру</string>
+    <string name="reinstallGameQ">Починить игру?</string>
+    <string name="repeat">Повторить</string>
+    <string name="resetSettings">Сбросить настройки</string>
+    <string name="resetSettingsQ">Сбросить настройки?</string>
+    <string name="app_name">BLACK RUSSIA</string>
+    <string name="loaded">%1$.2f MB из %2$.2f MB</string>
+    <string name="loading">Загружаем игру…</string>
+    <string name="loading_client">Загрузка клиента…</string>
+    <string name="loading_error">Ошибка соединения…</string>
+    <string name="loading_percent">Загрузка файлов игры…</string>
+    <string name="loading_textures">Загрузка текстур…</string>
+    <string name="loading_unzip">Распаковка…</string>
+    <string name="text_warning_splash">Внимание! Не закрывайте приложение во время установки. Если у вас возникли какие-то проблемы, советуем обратиться в Техническую поддержку!</string>
+    <string name="text_paused_cellular">Would you like to enable downloading over cellular connections? Depending on your data plan, this may cost you money.</string>
+    <string name="text_paused_cellular_2">If you choose not to enable downloading over cellular connections, the download will automatically resume when wi-fi is available.</string>
+    <string name="text_button_resume_cellular">Resume download</string>
+    <string name="text_button_wifi_settings">Wi-Fi settings</string>
+    <string name="text_verifying_download">Verifying Download</string>
+    <string name="text_validation_complete">XAPK File Validation Complete. Select OK to exit.</string>
+    <string name="text_validation_failed">XAPK File Validation Failed.</string>
+    <string name="text_button_pause">Pause Download</string>
+    <string name="text_button_resume">Resume Download</string>
+    <string name="text_button_cancel">Cancel</string>
+    <string name="text_button_cancel_verify">Cancel Verification</string>
+    <string name="notification_download_complete">Download complete</string>
+    <string name="players_list_header_dialog">Список игроков</string>
+    <string name="players_list_header_first_column">ID</string>
+    <string name="players_list_header_fourth_column">Пинг</string>
+    <string name="players_list_header_second_column">Ник игрока</string>
+    <string name="players_list_header_third_column">Уровень</string>
+    <string name="players_list_search_hint">Поиск игрока</string>
+    <string name="notification_download_failed">Download unsuccessful</string>
+    <string name="state_unknown">Starting...</string>
+    <string name="state_idle">Waiting for download to start</string>
+    <string name="state_fetching_url">Looking for resources to download</string>
+    <string name="state_connecting">Connecting to the download server</string>
+    <string name="state_downloading">Downloading resources</string>
+    <string name="state_completed">Download finished</string>
+    <string name="state_paused_network_unavailable">Download paused because no network is available</string>
+    <string name="state_paused_network_setup_failure">Download paused. Test a website in browser</string>
+    <string name="state_paused_by_request">Download paused</string>
+    <string name="state_paused_wifi_unavailable">Download paused because wifi is unavailable</string>
+    <string name="state_paused_wifi_disabled">Download paused because wifi is disabled</string>
+    <string name="state_paused_roaming">Download paused because you are roaming</string>
+    <string name="state_paused_sdcard_unavailable">Download paused because the external storage is unavailable</string>
+    <string name="state_failed_unlicensed">Download failed because you may not have purchased this app</string>
+    <string name="state_failed_fetching_url">Download failed because the resources could not be found</string>
+    <string name="state_failed_sdcard_full">Download failed because the external storage is full</string>
+    <string name="state_failed_cancelled">Download cancelled</string>
+    <string name="state_failed">Download failed</string>
+    <string name="kilobytes_per_second">%1$s KB/s</string>
+    <string name="time_remaining">Time remaining: %1$s</string>
+    <string name="time_remaining_notification">%1$s left</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="driving_school_button_next">Далее</string>
+    <string name="driving_school_class_info_all_info">При помощи радиального меню Вы можете:</string>
+    <string name="driving_school_class_info_for_car">Знаки водного движения</string>
+    <string name="driving_school_class_info_for_ship">Знаки дорожного движения</string>
+    <string name="driving_school_class_info_help_info">*Нажав кнопку «Начать», вы начнете теоретический экзамен по вождению. Денежные средства будут списаны.</string>
+    <string name="driving_school_class_info_info_2">Открыть данное радиальное меню можно при помощи кнопки «Меню», которая расположена под игровой картой.</string>
+    <string name="driving_school_class_info_info_3">— кнопка «Меню»</string>
+    <string name="driving_school_class_info_main_title">Туториал подготовки к сдаче экзамена</string>
+    <string name="driving_school_class_info_main_title_1">Помните, обучение в автошколе платное. Деньги будут списаны после начала теоретического экзамена.</string>
+    <string name="driving_school_class_info_main_title_2">В случае неудачи, деньги возвращены не будут.</string>
+    <string name="driving_school_class_info_title">Радиальное меню — способ взаимодействия с Вашим транспортным средством.</string>
+    <string name="driving_school_class_info_traffic_signs">Знаки дорожного движения</string>
+    <string name="driving_school_main_item_description_1">"Недостаточно
+средств"</string>
+    <string name="driving_school_main_item_description_2">Уже имеется</string>
+    <string name="driving_school_main_subtitle_1">Образовательное учреждение, в котором происходит обучение вождению транспортных средств.</string>
+    <string name="driving_school_main_title">Автошкола «Лыткарино»</string>
+    <string name="driving_school_text_for_additional_info_if_gud">Желаем успехов!</string>
+    <string name="driving_school_text_if_gud">"Вы успешно сдали теоретическую часть экзамена.
+Отправляйтесь к практической части и проверьте знания на практике."</string>
+    <string name="driving_school_text_if_not_gud">"Вы не смогли сдать теоретическую часть экзамена.
+Не расстраивайтесь, в следующий раз у Вас всё получится!"</string>
+    <string name="driving_school_this_question">Вопрос №%1$d</string>
+    <string name="driving_school_timer">%1$s : %2$s</string>
+    <string name="driving_school_title_if_gud">Поздравляем!</string>
+    <string name="driving_school_title_if_not_gud">К сожалению …</string>
+    <string name="driving_school_value_answers">%1$d / %2$d</string>
+    <string name="driving_school_value_correct_answers_in_end_test">Верных баллов: %1$d из %2$d.</string>
+    <string name="dialog_join_from_launcher_msg">Вам необходимо зайти в игру используя лаунчер</string>
+    <string name="dialog_join_from_launcher_ok">Принять</string>
+
+    <string name="sppd1"><font color="#D3D3D3">0</font>%1$d</string>
+
+    <string name="speed_new_text"><font color="#D3D3D3">0</font>%1$d</string>
+    <string name="speed_new_text2"><font color="#D3D3D3">00</font>%1$d</string>
+
+    <string name="fuel_fill_button_confirmation">Оплатить</string>
+    <string name="fuel_fill_price_of_fuel">%1$d р/литр</string>
+    <string name="fuel_fill_value_of_fuel">%1$d л</string>
+    <string name="rubles">₽</string>
+
+    <string name="spawn_location_choose_place">Выберите место появления</string>
+    <string name="enter">Войти</string>
+    <string name="spawn_location_error">Произошла ошибка, измените выбор</string>
+</resources>

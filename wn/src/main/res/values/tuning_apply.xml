@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tuning_submenu_button_buy">купить</string>
+    <string name="tuning_submenu_button_diagnostic">диагностика</string>
+    <string name="tuning_submenu_button_repeat">починить</string>
+    <string name="tuning_submenu_change_title_buy">покупке</string>
+    <string name="tuning_submenu_change_title_diagnostic">диагностике</string>
+    <string name="tuning_submenu_change_title_repair">ремонте</string>
+    <string name="tuning_submenu_title_buy">Стоимость покупки</string>
+    <string name="tuning_submenu_title_diagnostic">Стоимость диагностики</string>
+    <string name="tuning_submenu_title_repair">Стоимость технического восстановления транспорта</string>
+</resources>

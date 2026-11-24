@@ -1,0 +1,2252 @@
+{
+  "StandartLevel": [
+    {
+      "id": 1,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 10000,
+      "name": "10 000 Р"
+    },
+    {
+      "id": 2,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 10000,
+      "name": "10 000 Р"
+    },
+    {
+      "id": 3,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 15,
+      "name": "15 BC"
+    },
+    {
+      "id": 4,
+      "typeId": 2,
+      "awardId": 259,
+      "count": 1,
+      "name": "Маска Джейсона"
+    },
+    {
+      "id": 5,
+      "typeId": 2,
+      "awardId": 225,
+      "count": 1,
+      "name": "Пивозавр"
+    },
+    {
+      "id": 6,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 15,
+      "name": "15 BC"
+    },
+    {
+      "id": 7,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 1,
+      "name": "Кейс x1"
+    },
+    {
+      "id": 8,
+      "typeId": 2,
+      "awardId": 260,
+      "count": 1,
+      "name": "Маска Ведьмы"
+    },
+    {
+      "id": 9,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 15,
+      "name": "15 BC"
+    },
+    {
+      "id": 10,
+      "typeId": 2,
+      "awardId": 5,
+      "count": 1,
+      "name": "ЗАЗ"
+    },
+    {
+      "id": 11,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 30000,
+      "name": "30 000 Р"
+    },
+    {
+      "id": 12,
+      "typeId": 2,
+      "awardId": 261,
+      "count": 1,
+      "name": "Маска Пилы"
+    },
+    {
+      "id": 13,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 30000,
+      "name": "30 000 Р"
+    },
+    {
+      "id": 14,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 1,
+      "name": "Кейс x1"
+    },
+    {
+      "id": 15,
+      "typeId": 2,
+      "awardId": 226,
+      "count": 1,
+      "name": "Пивозавр"
+    },
+    {
+      "id": 16,
+      "typeId": 2,
+      "awardId": 355,
+      "count": 1,
+      "name": "Очки 'Выпуклые глаза'"
+    },
+    {
+      "id": 17,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 40000,
+      "name": "40 000 Р"
+    },
+    {
+      "id": 18,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 30,
+      "name": "30 BC"
+    },
+    {
+      "id": 19,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 40000,
+      "name": "40 000 Р"
+    },
+    {
+      "id": 20,
+      "typeId": 2,
+      "awardId": 76,
+      "count": 1,
+      "name": "Racer Sport"
+    },
+    {
+      "id": 21,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 1,
+      "name": "Кейс x1"
+    },
+    {
+      "id": 22,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 50000,
+      "name": "50 000 Р"
+    },
+    {
+      "id": 23,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 50000,
+      "name": "50 000 Р"
+    },
+    {
+      "id": 24,
+      "typeId": 2,
+      "awardId": 356,
+      "count": 1,
+      "name": "Очки 'Обычные глаза'"
+    },
+    {
+      "id": 25,
+      "typeId": 2,
+      "awardId": 227,
+      "count": 1,
+      "name": "Красавица"
+    },
+    {
+      "id": 26,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 60000,
+      "name": "60 000 Р"
+    },
+    {
+      "id": 27,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 45,
+      "name": "45 BC"
+    },
+    {
+      "id": 28,
+      "typeId": 2,
+      "awardId": 364,
+      "count": 1,
+      "name": "Нос клоуна"
+    },
+    {
+      "id": 29,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 60000,
+      "name": "60 000 Р"
+    },
+    {
+      "id": 30,
+      "typeId": 2,
+      "awardId": 6,
+      "count": 1,
+      "name": "ВАЗ"
+    },
+    {
+      "id": 31,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 70000,
+      "name": "70 000 Р"
+    },
+    {
+      "id": 32,
+      "typeId": 2,
+      "awardId": 264,
+      "count": 1,
+      "name": "Маска треугольника"
+    },
+    {
+      "id": 33,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 60,
+      "name": "60 BC"
+    },
+    {
+      "id": 34,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 70000,
+      "name": "70 000 Р"
+    },
+    {
+      "id": 35,
+      "typeId": 2,
+      "awardId": 228,
+      "count": 1,
+      "name": "Красавчик"
+    },
+    {
+      "id": 36,
+      "typeId": 2,
+      "awardId": 267,
+      "count": 1,
+      "name": "Метла"
+    },
+    {
+      "id": 37,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 80000,
+      "name": "80 000 Р"
+    },
+    {
+      "id": 38,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 80000,
+      "name": "80 000 Р"
+    },
+    {
+      "id": 39,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 60,
+      "name": "60 BC"
+    },
+    {
+      "id": 40,
+      "typeId": 2,
+      "awardId": 7,
+      "count": 1,
+      "name": "ВАЗ"
+    },
+    {
+      "id": 41,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 90000,
+      "name": "90 000 Р"
+    },
+    {
+      "id": 42,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 1,
+      "name": "Кейс x1"
+    },
+    {
+      "id": 43,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 90000,
+      "name": "90 000 Р"
+    },
+    {
+      "id": 44,
+      "typeId": 2,
+      "awardId": 477,
+      "count": 1,
+      "name": "ГеймБой"
+    },
+    {
+      "id": 45,
+      "typeId": 2,
+      "awardId": 205,
+      "count": 1,
+      "name": "Игла"
+    },
+    {
+      "id": 46,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 100000,
+      "name": "100 000 Р"
+    },
+    {
+      "id": 47,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 100000,
+      "name": "100 000 Р"
+    },
+    {
+      "id": 48,
+      "typeId": 2,
+      "awardId": 479,
+      "count": 1,
+      "name": "Летняя доска"
+    },
+    {
+      "id": 49,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 1,
+      "name": "Кейс x1"
+    },
+    {
+      "id": 50,
+      "typeId": 2,
+      "awardId": 8,
+      "count": 1,
+      "name": "ГАЗ"
+    },
+    {
+      "id": 51,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 90,
+      "name": "90 BC"
+    },
+    {
+      "id": 52,
+      "typeId": 2,
+      "awardId": 463,
+      "count": 1,
+      "name": "Катюша"
+    },
+    {
+      "id": 53,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 110000,
+      "name": "110 000 Р"
+    },
+    {
+      "id": 54,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 90,
+      "name": "90 BC"
+    },
+    {
+      "id": 55,
+      "typeId": 2,
+      "awardId": 313,
+      "count": 1,
+      "name": "Известный"
+    },
+    {
+      "id": 56,
+      "typeId": 2,
+      "awardId": 464,
+      "count": 1,
+      "name": "Рюкзак"
+    },
+    {
+      "id": 57,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 90,
+      "name": "90 BC"
+    },
+    {
+      "id": 58,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 120000,
+      "name": "120 000 Р"
+    },
+    {
+      "id": 59,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 120000,
+      "name": "120 000 Р"
+    },
+    {
+      "id": 60,
+      "typeId": 2,
+      "awardId": 400,
+      "count": 1,
+      "name": "ВАЗ"
+    },
+    {
+      "id": 61,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 130000,
+      "name": "130 000 Р"
+    },
+    {
+      "id": 62,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 130000,
+      "name": "130 000 Р"
+    },
+    {
+      "id": 63,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 1,
+      "name": "Кейс x1"
+    },
+    {
+      "id": 64,
+      "typeId": 2,
+      "awardId": 432,
+      "count": 1,
+      "name": "Маска оленя"
+    },
+    {
+      "id": 65,
+      "typeId": 2,
+      "awardId": 311,
+      "count": 1,
+      "name": "Мексу Вещает"
+    },
+    {
+      "id": 66,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 105,
+      "name": "105 BC"
+    },
+    {
+      "id": 67,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 140000,
+      "name": "140 000 Р"
+    },
+    {
+      "id": 68,
+      "typeId": 2,
+      "awardId": 433,
+      "count": 1,
+      "name": "Белые рога"
+    },
+    {
+      "id": 69,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 105,
+      "name": "105 BC"
+    },
+    {
+      "id": 70,
+      "typeId": 2,
+      "awardId": 77,
+      "count": 1,
+      "name": "Aprilla"
+    },
+    {
+      "id": 71,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 150000,
+      "name": "150 000 Р"
+    },
+    {
+      "id": 72,
+      "typeId": 2,
+      "awardId": 434,
+      "count": 1,
+      "name": "Уши эльфа"
+    },
+    {
+      "id": 73,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 150000,
+      "name": "150 000 Р"
+    },
+    {
+      "id": 74,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 150000,
+      "name": "150 000 Р"
+    },
+    {
+      "id": 75,
+      "typeId": 2,
+      "awardId": 206,
+      "count": 1,
+      "name": "Барыга"
+    }
+  ],
+  "PremiumLevel": [
+    {
+      "id": 1,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 25000,
+      "name": "25 000 Р"
+    },
+    {
+      "id": 2,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 25000,
+      "name": "25 000 Р"
+    },
+    {
+      "id": 3,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 40,
+      "name": "40 BC"
+    },
+    {
+      "id": 4,
+      "typeId": 2,
+      "awardId": 284,
+      "count": 1,
+      "name": "Черная шапка"
+    },
+    {
+      "id": 5,
+      "typeId": 2,
+      "awardId": 321,
+      "count": 1,
+      "name": "Известный"
+    },
+    {
+      "id": 6,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 40,
+      "name": "40 BC"
+    },
+    {
+      "id": 7,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 2,
+      "name": "Кейс x2"
+    },
+    {
+      "id": 8,
+      "typeId": 2,
+      "awardId": 286,
+      "count": 1,
+      "name": "Кандибобер"
+    },
+    {
+      "id": 9,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 40,
+      "name": "40 BC"
+    },
+    {
+      "id": 10,
+      "typeId": 2,
+      "awardId": 39,
+      "count": 1,
+      "name": "Infiniti"
+    },
+    {
+      "id": 11,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 75000,
+      "name": "75 000 Р"
+    },
+    {
+      "id": 12,
+      "typeId": 2,
+      "awardId": 247,
+      "count": 1,
+      "name": "Шляпа"
+    },
+    {
+      "id": 13,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 75000,
+      "name": "75 000 Р"
+    },
+    {
+      "id": 14,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 2,
+      "name": "Кейс x2"
+    },
+    {
+      "id": 15,
+      "typeId": 2,
+      "awardId": 325,
+      "count": 1,
+      "name": "Известный"
+    },
+    {
+      "id": 16,
+      "typeId": 2,
+      "awardId": 248,
+      "count": 1,
+      "name": "Неоновая маска"
+    },
+    {
+      "id": 17,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 100000,
+      "name": "100 000 Р"
+    },
+    {
+      "id": 18,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 80,
+      "name": "80 BC"
+    },
+    {
+      "id": 19,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 100000,
+      "name": "100 000 Р"
+    },
+    {
+      "id": 20,
+      "typeId": 2,
+      "awardId": 40,
+      "count": 1,
+      "name": "Volvo"
+    },
+    {
+      "id": 21,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 2,
+      "name": "Кейс x2"
+    },
+    {
+      "id": 22,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 125000,
+      "name": "125 000 Р"
+    },
+    {
+      "id": 23,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 125000,
+      "name": "125 000 Р"
+    },
+    {
+      "id": 24,
+      "typeId": 2,
+      "awardId": 249,
+      "count": 1,
+      "name": "Неоновая маска"
+    },
+    {
+      "id": 25,
+      "typeId": 2,
+      "awardId": 326,
+      "count": 1,
+      "name": "Известный"
+    },
+    {
+      "id": 26,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 150000,
+      "name": "150 000 Р"
+    },
+    {
+      "id": 27,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 120,
+      "name": "120 BC"
+    },
+    {
+      "id": 28,
+      "typeId": 2,
+      "awardId": 250,
+      "count": 1,
+      "name": "Неоновая маска"
+    },
+    {
+      "id": 29,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 150000,
+      "name": "150 000 Р"
+    },
+    {
+      "id": 30,
+      "typeId": 2,
+      "awardId": 202,
+      "count": 1,
+      "name": "Volkswagen"
+    },
+    {
+      "id": 31,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 175000,
+      "name": "175 000 Р"
+    },
+    {
+      "id": 32,
+      "typeId": 2,
+      "awardId": 251,
+      "count": 1,
+      "name": "Неоновая маска"
+    },
+    {
+      "id": 33,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 160,
+      "name": "160 BC"
+    },
+    {
+      "id": 34,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 175000,
+      "name": "175 000 Р"
+    },
+    {
+      "id": 35,
+      "typeId": 2,
+      "awardId": 230,
+      "count": 1,
+      "name": "Крик"
+    },
+    {
+      "id": 36,
+      "typeId": 2,
+      "awardId": 252,
+      "count": 1,
+      "name": "Неоновая маска"
+    },
+    {
+      "id": 37,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 200000,
+      "name": "200 000 Р"
+    },
+    {
+      "id": 38,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 200000,
+      "name": "200 000 Р"
+    },
+    {
+      "id": 39,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 160,
+      "name": "160 BC"
+    },
+    {
+      "id": 40,
+      "typeId": 2,
+      "awardId": 41,
+      "count": 1,
+      "name": "Volvo"
+    },
+    {
+      "id": 41,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 225000,
+      "name": "225 000 Р"
+    },
+    {
+      "id": 42,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 2,
+      "name": "Кейс x2"
+    },
+    {
+      "id": 43,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 225000,
+      "name": "225 000 Р"
+    },
+    {
+      "id": 44,
+      "typeId": 2,
+      "awardId": 369,
+      "count": 1,
+      "name": "Кейс черный"
+    },
+    {
+      "id": 45,
+      "typeId": 2,
+      "awardId": 95,
+      "count": 1,
+      "name": "Известный"
+    },
+    {
+      "id": 46,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 250000,
+      "name": "250 000 Р"
+    },
+    {
+      "id": 47,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 250000,
+      "name": "250 000 Р"
+    },
+    {
+      "id": 48,
+      "typeId": 2,
+      "awardId": 370,
+      "count": 1,
+      "name": "Кейс серый"
+    },
+    {
+      "id": 49,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 2,
+      "name": "Кейс x2"
+    },
+    {
+      "id": 50,
+      "typeId": 2,
+      "awardId": 80,
+      "count": 1,
+      "name": "Yamaha"
+    },
+    {
+      "id": 51,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 240,
+      "name": "240 BC"
+    },
+    {
+      "id": 52,
+      "typeId": 2,
+      "awardId": 371,
+      "count": 1,
+      "name": "Золотая корона"
+    },
+    {
+      "id": 53,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 275000,
+      "name": "275 000 Р"
+    },
+    {
+      "id": 54,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 240,
+      "name": "240 BC"
+    },
+    {
+      "id": 55,
+      "typeId": 2,
+      "awardId": 96,
+      "count": 1,
+      "name": "Известный"
+    },
+    {
+      "id": 56,
+      "typeId": 2,
+      "awardId": 372,
+      "count": 1,
+      "name": "Корона короля"
+    },
+    {
+      "id": 57,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 240,
+      "name": "240 BC"
+    },
+    {
+      "id": 58,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 300000,
+      "name": "300 000 Р"
+    },
+    {
+      "id": 59,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 300000,
+      "name": "300 000 Р"
+    },
+    {
+      "id": 60,
+      "typeId": 2,
+      "awardId": 42,
+      "count": 1,
+      "name": "Chevrolet"
+    },
+    {
+      "id": 61,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 325000,
+      "name": "325 000 Р"
+    },
+    {
+      "id": 62,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 325000,
+      "name": "325 000 Р"
+    },
+    {
+      "id": 63,
+      "typeId": 6,
+      "awardId": 1,
+      "count": 2,
+      "name": "Кейс x2"
+    },
+    {
+      "id": 64,
+      "typeId": 2,
+      "awardId": 277,
+      "count": 1,
+      "name": "Деревянный"
+    },
+    {
+      "id": 65,
+      "typeId": 2,
+      "awardId": 97,
+      "count": 1,
+      "name": "Известный"
+    },
+    {
+      "id": 66,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 280,
+      "name": "280 BC"
+    },
+    {
+      "id": 67,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 350000,
+      "name": "350 000 Р"
+    },
+    {
+      "id": 68,
+      "typeId": 2,
+      "awardId": 279,
+      "count": 1,
+      "name": "Карамельная конфета"
+    },
+    {
+      "id": 69,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 280,
+      "name": "280 BC"
+    },
+    {
+      "id": 70,
+      "typeId": 2,
+      "awardId": 43,
+      "count": 1,
+      "name": "BMW"
+    },
+    {
+      "id": 71,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 375000,
+      "name": "375 000 Р"
+    },
+    {
+      "id": 72,
+      "typeId": 2,
+      "awardId": 285,
+      "count": 1,
+      "name": "Посох-зонт"
+    },
+    {
+      "id": 73,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 375000,
+      "name": "375 000 Р"
+    },
+    {
+      "id": 74,
+      "typeId": 1,
+      "awardId": 0,
+      "count": 375000,
+      "name": "375 000 Р"
+    },
+    {
+      "id": 75,
+      "typeId": 2,
+      "awardId": 203,
+      "count": 1,
+      "name": "Известный"
+    }
+  ],
+  "MarathonLevel": [
+    {
+      "id": 1,
+      "typeId": 0,
+      "awardId": 0,
+      "count": 50,
+      "name": "50 опыта"
+    },
+    {
+      "id": 2,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 20,
+      "name": "20 BC"
+    },
+    {
+      "id": 3,
+      "typeId": 6,
+      "awardId": 0,
+      "count": 1,
+      "name": "Кейс x1"
+    },
+    {
+      "id": 4,
+      "typeId": 2,
+      "awardId": 356,
+      "count": 1,
+      "name": "Очки 'Обычные глаза'"
+    },
+    {
+      "id": 5,
+      "typeId": 0,
+      "awardId": 0,
+      "count": 250,
+      "name": "250 опыта"
+    },
+    {
+      "id": 6,
+      "typeId": 6,
+      "awardId": 0,
+      "count": 1,
+      "name": "Кейс x1"
+    },
+    {
+      "id": 7,
+      "typeId": 2,
+      "awardId": 321,
+      "count": 1,
+      "name": "Известный"
+    },
+    {
+      "id": 8,
+      "typeId": 2,
+      "awardId": 477,
+      "count": 1,
+      "name": "ГеймБой"
+    },
+    {
+      "id": 9,
+      "typeId": 6,
+      "awardId": 0,
+      "count": 1,
+      "name": "Кейс x1"
+    },
+    {
+      "id": 10,
+      "typeId": 3,
+      "awardId": 0,
+      "count": 100,
+      "name": "100 BC"
+    },
+    {
+      "id": 11,
+      "typeId": 0,
+      "awardId": 0,
+      "count": 550,
+      "name": "550 опыта"
+    },
+    {
+      "id": 12,
+      "typeId": 2,
+      "awardId": 432,
+      "count": 1,
+      "name": "Маска оленя"
+    },
+    {
+      "id": 13,
+      "typeId": 0,
+      "awardId": 0,
+      "count": 650,
+      "name": "650 опыта"
+    },
+    {
+      "id": 14,
+      "typeId": 2,
+      "awardId": 55,
+      "count": 1,
+      "name": "Porsche"
+    }
+  ],
+  "LevelPrices": 150,
+  "Tasks": [
+    {
+      "id": 0,
+      "type": "Общие",
+      "text": "Знакомство с администрацией",
+      "description": "Посетите здание правительства (Как найти: /gps > Важные места > Правительство).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 1,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 1,
+      "type": "Общие",
+      "text": "Здоровье превыше всего!",
+      "description": "Посетите городскую больницу (Как найти: /gps > Государственные организации > Городская больница).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 141,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 2,
+      "type": "Общие",
+      "text": "Без пяти минут банкир",
+      "description": "Посетите ближайшее банковское отделение (Как найти: /gps > Банки).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 142,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 3,
+      "type": "Общие",
+      "text": "Забежать за покупками",
+      "description": "Загляните в любой магазин 24/7.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 129,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 4,
+      "type": "Общие",
+      "text": "Вся наша жизнь — игра",
+      "description": "Найдите ближайшее казино и посетите его.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 49,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 5,
+      "type": "Общие",
+      "text": "Люби и саночки возить",
+      "description": "Заправить свой автомобиль на АЗС (Как найти: /gps > Ближайшие места > Найдите ближайшую АЗС).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 1,
+      "award": 3000,
+      "routeId": 126,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 6,
+      "type": "Общие",
+      "text": "Король тюнинга",
+      "description": "Сделайте тюнинг своего автомобиля в СТО (Как найти: /gps > Важные места > [12] СТО и тюнинг-ателье > [2] Стайлинг Центр).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 1,
+      "award": 5000,
+      "routeId": 69,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 7,
+      "type": "Общие",
+      "text": "Заядлый автолюбитель",
+      "description": "Проехать 20 километров на своём автомобиле.",
+      "count": 20,
+      "subtype": 0,
+      "typeint": 1,
+      "award": 5000,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 8,
+      "type": "Общие",
+      "text": "Подарок невесте",
+      "description": "Купите букет цветов (Как найти: /gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 128,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 9,
+      "type": "Общие",
+      "text": "Всегда под рукой!",
+      "description": "Купите 1 ремонтный набор (Как найти: /gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 128,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 13,
+      "type": "Общие",
+      "text": "Агент под прикрытием",
+      "description": "Купите маску (Как найти: /gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 128,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 14,
+      "type": "Общие",
+      "text": "Окажи мед. помощь!",
+      "description": "Купите 1 аптечку (Как найти: /gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 128,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 47,
+      "type": "Рабочие",
+      "text": "Быстрее ветра",
+      "description": "Разгонитесь на машине до 150 км/ч.",
+      "count": 1,
+      "subtype": 5,
+      "typeint": 7,
+      "award": 5000,
+      "routeId": 16,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 49,
+      "type": "Общие",
+      "text": "Меломан",
+      "description": "Включите музыку на любом устройстве (Для покупки: /gps > Ближайшие места > Найти ближайший магазин 24/7).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 128,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 50,
+      "type": "Рабочие",
+      "text": "Примерка",
+      "description": "Возьмите машину на тест-драйв в автосалоне.",
+      "count": 1,
+      "subtype": 4,
+      "typeint": 7,
+      "award": 3000,
+      "routeId": 15,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 52,
+      "type": "Общие",
+      "text": "Оставайся с нами",
+      "description": "Отыграйте 1 час.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 5000,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 55,
+      "type": "Рабочие",
+      "text": "Водитель-эксперт",
+      "description": "Проедьте 1 круг на работе автобусника.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 18,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 56,
+      "type": "Рабочие",
+      "text": "Зеленые яблоки",
+      "description": "Заработайте 3000 рублей на сборщике яблок.",
+      "count": 3000,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 98,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 57,
+      "type": "Рабочие",
+      "text": "Парное молочко",
+      "description": "Заработайте 3000 рублей на дояре.",
+      "count": 3000,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 98,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 58,
+      "type": "Рабочие",
+      "text": "Комбайнер",
+      "description": "Заработайте 3000 рублей на комбайнере.",
+      "count": 3000,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 98,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 59,
+      "type": "Рабочие",
+      "text": "Пчелы и мёд",
+      "description": "Заработайте 10000 рублей на пчеловоде.",
+      "count": 10000,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 98,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 60,
+      "type": "Рабочие",
+      "text": "Шахтер",
+      "description": "Заработайте 3000 рублей на шахте.",
+      "count": 3000,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 61,
+      "type": "Рабочие",
+      "text": "Сборщик",
+      "description": "Заработайте 3000 рублей на заводе.",
+      "count": 3000,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 10,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 62,
+      "type": "Общие",
+      "text": "На кубике - четыре",
+      "description": "Сыграйте в казино-игру кости.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 49,
+      "complexity": 1,
+      "taskStatus": 0
+    },
+    {
+      "id": 63,
+      "type": "Общие",
+      "text": "Будьте вежливы",
+      "description": "Поздоровайтесь с тремя игроками.",
+      "count": 3,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 49,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 68,
+      "type": "Общие",
+      "text": "Боеготов",
+      "description": "Купите оружие в магазине оружия (Как найти: /gps > Поиск ближайших мест > Найти ближайший магазин оружия).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 131,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 96,
+      "type": "Общие",
+      "text": "Гласность народу",
+      "description": "Подайте объявление в СМИ (/ad).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 5000,
+      "routeId": 32,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 97,
+      "type": "Общие",
+      "text": "Куда без номеров?",
+      "description": "Прокрутите номера в ГИБДД (Как найти: /gps - Государственные организации - ГИБДД).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 5000,
+      "routeId": 21,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 99,
+      "type": "Общие",
+      "text": "Благотворительность",
+      "description": "Пожертвуйте средства в банке (Как найти: /gps - Банки).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 142,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 100,
+      "type": "Общие",
+      "text": "Нужно с чего то начинать",
+      "description": "Посетите автосалон низкого класса (Как найти: /gps - Автосалоны - Автосалон низкого класса).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 61,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 101,
+      "type": "Общие",
+      "text": "Поднимаемся с колен",
+      "description": "Посетите автосалон среднего класса (Как найти: /gps - Автосалоны - Автосалон среднего класса).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 62,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 102,
+      "type": "Общие",
+      "text": "Почувствуй рев мотора",
+      "description": "Посетите автосалон высокого класса (Как найти: /gps - Автосалоны - Автосалон высокого класса).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 63,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 103,
+      "type": "Общие",
+      "text": "Железный конь",
+      "description": "Посетите мотосалон (Как найти: /gps - Автосалоны - Мотосалон).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 65,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 104,
+      "type": "Общие",
+      "text": "Краш тест",
+      "description": "Возьмите машину на тест драйв в любом автосалоне.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 145,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 105,
+      "type": "Общие",
+      "text": "Мечтать не вредно",
+      "description": "Посетите авторынок любого класса (Как найти: /gps - Автосалоны - Автосалон поддержанных авто).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 66,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 106,
+      "type": "Общие",
+      "text": "На черный день",
+      "description": "Купите канистру с бензином в любой АЗС (Как найти: /gps - Ближайшие места - Найдите ближайшую АЗС).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 126,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 108,
+      "type": "Общие",
+      "text": "С ветерком!",
+      "description": "Арендуйте скутер",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 143,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 110,
+      "type": "Общие",
+      "text": "Полный бак",
+      "description": "Заправьте личный транспорт (Как найти: /gps - Ближайшие места - Найдите ближайшую АЗС).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 126,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 111,
+      "type": "Общие",
+      "text": "Здоров как бык",
+      "description": "Вылечитесь в больнице (Как найти: /gps - Государственные организации - Больница).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 141,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 120,
+      "type": "Общие",
+      "text": "Дальнобойщик",
+      "description": "Проедьте 30 километров за рулём.",
+      "count": 30,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 5000,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 121,
+      "type": "Общие",
+      "text": "Покушать бы",
+      "description": "Купите что нибудь перекусить в любой лавке.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 129,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 124,
+      "type": "Общие",
+      "text": "Модный",
+      "description": "Наденьте любой аксессуар.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 125,
+      "type": "Рабочие",
+      "text": "Шахтёрский труд",
+      "description": "Получите оплату в шахте три раза.",
+      "count": 3,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 5000,
+      "routeId": 19,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 126,
+      "type": "Рабочие",
+      "text": "Курьерский день",
+      "description": "Выйдите на смену курьером три раза.",
+      "count": 3,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 5000,
+      "routeId": 19,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 127,
+      "type": "Рабочие",
+      "text": "Взять заказ",
+      "description": "Возьмите заказ в транспортной компании.",
+      "count": 1,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 19,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 129,
+      "type": "Рабочие",
+      "text": "Аккуратный водитель",
+      "description": "Доставьте груз без единого повреждения.",
+      "count": 1,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 5000,
+      "routeId": 19,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 130,
+      "type": "Рабочие",
+      "text": "Запасливый водитель",
+      "description": "Заправьте машину из канистры.",
+      "count": 1,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 19,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 131,
+      "type": "Рабочие",
+      "text": "Пять кругов",
+      "description": "Проедьте пять кругов на маршруте автобуса.",
+      "count": 5,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 5000,
+      "routeId": 19,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 133,
+      "type": "Рабочие",
+      "text": "Связь важна",
+      "description": "Пополните счёт телефона.",
+      "count": 1,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 19,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 134,
+      "type": "Рабочие",
+      "text": "Смена на заводе",
+      "description": "Начните рабочий день на заводе.",
+      "count": 1,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 19,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 135,
+      "type": "Рабочие",
+      "text": "Именные номера",
+      "description": "Закажите номера на машину в ГИБДД.",
+      "count": 1,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 5000,
+      "routeId": 19,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 141,
+      "type": "Рабочие",
+      "text": "За баранку",
+      "description": "Начните рабочий день водителем автобуса.",
+      "count": 1,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 19,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 142,
+      "type": "Рабочие",
+      "text": "Стильный образ",
+      "description": "Наденьте любой аксессуар.",
+      "count": 1,
+      "subtype": 7,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 19,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 143,
+      "type": "Общие",
+      "text": "Дружелюбный",
+      "description": "Поздоровайтесь с 1 игроками.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 146,
+      "type": "Общие",
+      "text": "Полный бак",
+      "description": "Заправьте автомобиль при помощи канистры с бензином",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 147,
+      "type": "Общие",
+      "text": "Я здоров",
+      "description": "Используйте аптечку",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 148,
+      "type": "Общие",
+      "text": "Романтик",
+      "description": "Подарите букет цветов любому персонажу противоположного пола",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 149,
+      "type": "Общие",
+      "text": "Я здоров",
+      "description": "Купите аптечку в магазине 24/7",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 128,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 150,
+      "type": "Общие",
+      "text": "Шумахер",
+      "description": "Разогнаться до скорости 150 км/ч на любом автомобиле находясь за рулем",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 1,
+      "award": 3000,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 151,
+      "type": "Общие",
+      "text": "Железный конь",
+      "description": "Набрать 100 км/ч на любом мотоцикле",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 1,
+      "award": 3000,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 152,
+      "type": "Общие",
+      "text": "Инкогнито",
+      "description": "Наденьте маску на лицо",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 154,
+      "type": "Общие",
+      "text": "Я на связи",
+      "description": "Пополните счёт телефона в отделении банка или банкомате (Как найти: /gps > Поиск ближайших мест > Найти ближайший банкомат).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 134,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 155,
+      "type": "Общие",
+      "text": "Исследователь",
+      "description": "Посетите Арзамас",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 73,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 156,
+      "type": "Общие",
+      "text": "Исследователь",
+      "description": "Посетите Арзамас.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 74,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 157,
+      "type": "Общие",
+      "text": "Исследователь",
+      "description": "Посетите Лыткарино",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 77,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 158,
+      "type": "Общие",
+      "text": "Исследователь",
+      "description": "Посетите Лыткарино.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 72,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 159,
+      "type": "Общие",
+      "text": "Ежедневные покупки",
+      "description": "Посетите магазин 24/7 (Как найти: /gps > Найти ближайший магазин 24/7).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 128,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 168,
+      "type": "Общие",
+      "text": "Испытай удачу",
+      "description": "Посетите офис транспортной компании (Как найти: /gps > Транспортные компании).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 144,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 169,
+      "type": "Общие",
+      "text": "Заводские будни",
+      "description": "Начните рабочий день на заводе (Как найти: /gps > Работы для новичков > Завод).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 10,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 171,
+      "type": "Общие",
+      "text": "По маршруту",
+      "description": "Начните рабочий день водителем автобуса (Как найти: /gps > Важные места > Правительство).",
+      "count": 1,
+      "subtype": 2,
+      "typeint": 7,
+      "award": 2000,
+      "routeId": 1,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 176,
+      "type": "Общие",
+      "text": "Про запас",
+      "description": "Купите канистру на заправке.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 3000,
+      "routeId": 128,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 177,
+      "type": "Общие",
+      "text": "Поправить здоровье",
+      "description": "Вылечитесь в больнице.",
+      "count": 1,
+      "subtype": 4,
+      "typeint": 7,
+      "award": 3000,
+      "routeId": 15,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 178,
+      "type": "Общие",
+      "text": "От чистого сердца",
+      "description": "Сделайте пожертвование.",
+      "count": 1,
+      "subtype": 4,
+      "typeint": 7,
+      "award": 5000,
+      "routeId": 15,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 179,
+      "type": "Общие",
+      "text": "Подкрепиться",
+      "description": "Купите любую еду.",
+      "count": 1,
+      "subtype": 5,
+      "typeint": 7,
+      "award": 2000,
+      "routeId": 16,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 180,
+      "type": "Общие",
+      "text": "Ветер в лицо",
+      "description": "Возьмите скутер в аренду.",
+      "count": 1,
+      "subtype": 5,
+      "typeint": 7,
+      "award": 3000,
+      "routeId": 16,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 182,
+      "type": "Общие",
+      "text": "Приятный жест",
+      "description": "Подарите букет другому игроку.",
+      "count": 1,
+      "subtype": 5,
+      "typeint": 7,
+      "award": 3000,
+      "routeId": 16,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 237,
+      "type": "Рабочие",
+      "text": "Начало долгого пути",
+      "description": "Вступить в одну из транспортных компаний (Как найти: /gps > Транспортные компании)",
+      "count": 1,
+      "subtype": 1,
+      "typeint": 7,
+      "award": 3000,
+      "routeId": 144,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 238,
+      "type": "Рабочие",
+      "text": "Первый груз",
+      "description": "Взять заказ в транспортной компании",
+      "count": 1,
+      "subtype": 1,
+      "typeint": 7,
+      "award": 3000,
+      "routeId": 144,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 239,
+      "type": "Рабочие",
+      "text": "Груз доставлен",
+      "description": "Сдайте заказ в транспортной компании.",
+      "count": 1,
+      "subtype": 1,
+      "typeint": 7,
+      "award": 3000,
+      "routeId": 144,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 240,
+      "type": "Рабочие",
+      "text": "Большой груз",
+      "description": "Доставить заказ на склад работая в транспортной компании",
+      "count": 1,
+      "subtype": 1,
+      "typeint": 7,
+      "award": 3000,
+      "routeId": 144,
+      "complexity": 1,
+      "taskStatus": 1
+    },
+    {
+      "id": 241,
+      "type": "Рабочие",
+      "text": "Ювелирная доставка",
+      "description": "Доставить груз не повредив транспорт работая в транспортной компании",
+      "count": 1,
+      "subtype": 1,
+      "typeint": 7,
+      "award": 5000,
+      "routeId": 144,
+      "complexity": 2,
+      "taskStatus": 1
+    },
+    {
+      "id": 249,
+      "type": "Общие",
+      "text": "Присмотреть машину",
+      "description": "Загляните на авторынок.",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 133,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 250,
+      "type": "Общие",
+      "text": "Будни шахтера",
+      "description": "Начните рабочий день на шахте (Как найти: /gps > Работы для новичков > Шахта).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 9,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 251,
+      "type": "Общие",
+      "text": "Будни фермера",
+      "description": "Начните рабочий день на ферме (Как найти: /gps > Работы для новичков > Ферма).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 98,
+      "complexity": 0,
+      "taskStatus": 1
+    },
+    {
+      "id": 252,
+      "type": "Общие",
+      "text": "Будни курьера",
+      "description": "Начните рабочий день курьером (Как найти: /gps > Основные работы > Курьерская служба доставки).",
+      "count": 1,
+      "subtype": 0,
+      "typeint": 0,
+      "award": 2000,
+      "routeId": 13,
+      "complexity": 0,
+      "taskStatus": 1
+    }
+  ]
+}
